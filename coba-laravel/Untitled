@@ -1,0 +1,6 @@
+Post::create([
+'title' => 'Judul Ke Tiga',
+'slug' => 'judul-ke-tiga',
+'excerpt' => 'Lorem ipsum ke tiga',
+'body' => '<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem expedita amet distinctio, sequi beatae soluta ipsam deserunt vitae qui voluptate,similique quibusdam est hic dolore sint. Voluptatum natus quia dolore tempora voluptatibus deleniti blanditiis similique, est, minus facere officia quos provident odit quisquam nulla eligendi itaque corrupti.</p><p>repellendus ratione! Consectetur nobis nostrum dignissimos error ab explicabo, velit sit consequuntur recusandae sed minima voluptas quasi quia harum nulla iure optio quo laudantium! Minus, nemo dolor? Obcaecati velit voluptate pariatur, unde harum quia nesciunt dignissimos fugit, eum quaerat provident cupiditate recusandae at qui omnis labore? Ad, cupiditate iusto pariatur quibusdam, atque.</p><p> adipisci reprehenderit quisquam fuga enim a distinctio quas ipsa, quod cum! Atque adipisci quod incidunt qui, error, vel porro repellendus voluptatum ipsa ratione voluptatibus? Dolorum, ipsam in. Quo sunt, eveniet voluptatibus optio temporibus magnam molestiae at repellat saepe quibusdam neque beatae consequuntur fuga itaque adipisci? Non libero facilis fugiat molestiae sit?.</p>' 
+])
